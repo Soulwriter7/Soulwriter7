@@ -1,7 +1,3 @@
-Here is the complete, updated code for your **`README.md`**. You can click the **Copy** button at the top-right of the code box below and paste it directly into your GitHub repository at:
-👉 **[https://github.com/Soulwriter7/Soulwriter7/edit/main/README.md](https://github.com/Soulwriter7/Soulwriter7/edit/main/README.md)**
-
-```markdown
 <div align="center">
 
   <!-- ================= HEADER BANNER ================= -->
@@ -55,8 +51,6 @@ const akash = {
   ],
   objective: "Seeking a remote Software/Tech internship to apply skills in Python, SQL, and application development in an async-first, collaborative team."
 };
-```
-
 ---
 
 ### ⚡ &nbsp; Technical Skills & Tools *(According to Resume)*
