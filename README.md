@@ -230,7 +230,7 @@ const akash = {
 ### 💬 &nbsp; Personal Quote & Guiding Philosophy
 
 <!-- ========================================================================= -->
-<!-- ✏️ EDIT YOUR CUSTOM QUOTE HERE: Replace the text between the quotes below -->
+<!-- If you think you're perfect already, then you never will be. -->
 <!-- ========================================================================= -->
 
 <div align="center">
